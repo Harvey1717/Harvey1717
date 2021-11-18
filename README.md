@@ -16,5 +16,5 @@
 
 ### Some GitHub Stats 📈
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=harvey1717&show_icons=true&theme=algolia&count_private=true&hide=contribs&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvey1717&theme=algolia)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=harvey1717&show_icons=true&theme=algolia&count_private=true&hide=contribs&include_all_commits=true)
