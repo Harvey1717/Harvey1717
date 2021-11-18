@@ -11,7 +11,7 @@
 
 - 🔭 My main project right now is: DMC Hub ([Demo Repo](https://github.com/Harvey1717/DMC-Hub_Demo))
 - 🌱 I’m currently continuing to learn more: C++ & SQL
-- 📫 How to reach me: [Email](mailto:name@email.com), [Discord](https://discord.com/users/469870742033661958)
+- 📫 How to reach me: [Email](mailto:harvey.woodall@me.com), [Discord](https://discord.com/users/469870742033661958)
 - 🏋️‍♂️ Hobbies: Weightlifting
 
 ### Some GitHub Stats 📈
