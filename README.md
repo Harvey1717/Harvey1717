@@ -15,6 +15,12 @@
 - 📫 How to reach me: [Email](mailto:harvey.woodall@me.com), [Discord](https://discord.com/users/469870742033661958)
 - 🏋️‍♂️ Hobbies: Weightlifting
 
+
+### Demo Projects
+
+- SignIn App Dashboard [Coming Soon...](https://github.com/Harvey1717)
+- Barcode Scanner App [Coming Soon...](https://github.com/Harvey1717)
+
 ### Some GitHub Stats 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvey1717&theme=algolia)
