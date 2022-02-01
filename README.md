@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🔭 My main project right now is: DMC Hub ([Demo Repo](https://github.com/Harvey1717/DMC-Hub_Demo))
+- 🔭 My main project right now is: DMC Hub Bot ([Demo Repo](https://github.com/Harvey1717/DMC-Hub_Demo)) and the [DMC Hub Site](https://dmc-hub.xyz)
 - 💻 My favourite language's are: Python & JavaScript 
 - 🌱 I’m currently continuing to learn more: C++ & SQL
 - 📫 How to reach me: [Email](mailto:harvey.woodall@me.com), [Discord](https://discord.com/users/469870742033661958)
