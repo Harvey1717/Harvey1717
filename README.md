@@ -1,27 +1,54 @@
-## Hi there 👋
+## Welcome to My GitHub Profile 👋
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-- 🔭 My main project right now is: DMC Hub Bot ([Demo Repo](https://github.com/Harvey1717/DMC-Hub_Demo)) and the [DMC Hub Site](https://dmc-hub.xyz)
-- 💻 My favourite language's are: Python & JavaScript 
-- 🌱 I’m currently continuing to learn more: C++ & SQL
-- 📫 How to reach me: [Email](mailto:harvey.woodall@me.com), [Discord](https://discord.com/users/469870742033661958)
-- 🏋️‍♂️ Hobbies: Weightlifting
+- 🔭 Due to my year long Software Engineering Intership I do not have a main personal project at the moment but feel free to check out some past ones below.
+- 💻 I enjoy working with **TypeScript** and **Python**, and I'm passionate about developing innovative solutions that solve real-world problems.
+- 🌱 Currently, I'm expanding my knowledge in **C++** to further broaden my skillset.
+- 📫 You can reach me via:
+	-   [LinkedIn](https://www.linkedin.com/in/harvey-woodall/)
+	-   [Email](mailto:harvey.woodall@me.com)
+	-   [Discord](https://discord.com/users/469870742033661958)
+	-   [Telegram](https://t.me/dmc1717)
+- 🏋️‍♂️ In my free time, I enjoy weightlifting and running to stay active and maintain a healthy lifestyle.
 
 
-### Demo Projects
+### Past Projects
 
-- SignIn App Dashboard [Coming Soon...](https://github.com/Harvey1717)
-- Barcode Scanner App [Coming Soon...](https://github.com/Harvey1717)
+#### DMC Hub
 
-### Some GitHub Stats 📈
+##### CLI Tool
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvey1717&theme=algolia)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=harvey1717&show_icons=true&theme=algolia&count_private=true&hide=contribs&include_all_commits=true)
+A robust tool that features a wide array of bots and monitors, specifically designed for various e-commerce websites. Powered by a flexible framework, it facilitates the effortless creation of new site integrations, complete with essential features like task creation, site-specific configurations, and common modules. Although no longer actively maintained, this tool remains a testament to my dedication to innovation and problem-solving within Software Engineering.
+
+##### Site & Chrome Extension Companion
+
+A powerful web application designed to complement the CLI tool. This full-fledged web app, built with **React** and an **Express** backend, offers secure authentication and role-based access control. Users can upload cart sessions captured through the CLI tool and can then confidently buy and sell these cart sessions to other users, creating a dynamic marketplace. The web app includes a secure payment system powered by Stripe, enabling users to conveniently purchase tokens that grant access to cart sessions. Additionally, a Chrome extension companion allows buyers to effortlessly load purchased sessions directly into their browsers.
+
+---
+
+#### SignInApp Dashboard
+
+A comprehensive dashboard that seamlessly connects with the [SignInApp](https://signinapp.com/) API, providing real-time status updates of staff and visitors. Gain insights into who is currently present in the office, which specific office they are in, and their respective arrival times. Stay informed about upcoming visitor appointments, including the scheduled visitation time and the individuals they are scheduled to meet.
+
+---
+
+#### Barcode Scanner Web App
+
+A local backup solution designed for office environments. Effortlessly scan product barcodes while ensuring data integrity through duplicate checking. Seamlessly export scanned data in various formats for easy integration with existing systems. Enjoy the convenience of visual and audio feedback, providing immediate confirmation of successful or unsuccessful scans. With its ability to function without internet connectivity, this reliable app empowers your team to maintain uninterrupted operations and streamline data capture efficiently.
+
+---
+
+#### Custom Home Assistant Add Ons
+
+Writeup coming soon...
+
+---
+
+#### AI-Powered Sports Betting Bot
+
+Writeup coming soon...
+
+---
+
+#### Unofficial FlashScore API
+
+Writeup coming soon...
