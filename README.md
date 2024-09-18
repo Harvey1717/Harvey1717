@@ -1,17 +1,14 @@
 ## Welcome to My GitHub Profile 👋
 
-- 🔭 Due to my year long Software Engineering Intership I do not have a main personal project at the moment but feel free to check out some past ones below.
-- 💻 I enjoy working with **TypeScript** and **Python**, and I'm passionate about developing innovative solutions that solve real-world problems.
-- 🌱 Currently, I'm expanding my knowledge in **C++** to further broaden my skillset.
 - 📫 You can reach me via:
 	-   [LinkedIn](https://www.linkedin.com/in/harvey-woodall/)
 	-   [Email](mailto:harvey.woodall@me.com)
 	-   [Discord](https://discord.com/users/469870742033661958)
 	-   [Telegram](https://t.me/dmc1717)
-- 🏋️‍♂️ In my free time, I enjoy weightlifting and running to stay active and maintain a healthy lifestyle.
-
 
 ### Past Projects
+
+- For more up-to-date information on my personal projects, please visit my LinkedIn
 
 #### DMC Hub
 
