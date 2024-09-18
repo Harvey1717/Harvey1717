@@ -8,7 +8,7 @@
 
 ### Past Projects
 
-> For more up-to-date information on my personal projects, please visit my LinkedIn
+> These are from 2021 and previous, for more up-to-date information on my personal projects, please visit my [LinkedIn](https://www.linkedin.com/in/harvey-woodall/)
 
 #### DMC Hub
 
