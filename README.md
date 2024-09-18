@@ -8,7 +8,7 @@
 
 ### Past Projects
 
-- For more up-to-date information on my personal projects, please visit my LinkedIn
+> For more up-to-date information on my personal projects, please visit my LinkedIn
 
 #### DMC Hub
 
