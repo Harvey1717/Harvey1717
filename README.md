@@ -5,3 +5,5 @@
 	-   [Email](mailto:harvey.woodall@me.com)
 	-   [Discord](https://discord.com/users/469870742033661958)
 	-   [Telegram](https://t.me/dmc1717)
+
+All my personal projects are private for now, if you're interested in hearing about them then please contact me.
