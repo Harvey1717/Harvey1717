@@ -8,10 +8,10 @@
 
 ### Personal Projects 
 
-[LoanScout](https://haarvs.site) - Mortgage Affordability Comparison SaaS (in Beta)
+[LendScout](https://lendscout.app) - Mortgage Affordability Comparison SaaS (in Beta)
 - TypeScript, Next JS
-<img width="1804" alt="Screenshot 2025-01-21 at 20 51 19" src="https://github.com/user-attachments/assets/2cd07308-1716-4b34-bcc9-d90fda007f70" />
-<img width="1804" alt="Screenshot 2025-01-21 at 20 49 47" src="https://github.com/user-attachments/assets/b336993b-fe7a-408e-a3db-360aeafe3078" />
+<img width="1726" alt="Screenshot 2025-03-05 at 18 52 23" src="https://github.com/user-attachments/assets/c0621eb7-5ab3-439d-bdb0-096b97857cfc" />
+<img width="1726" alt="Screenshot 2025-03-05 at 18 53 03" src="https://github.com/user-attachments/assets/bd51b0ee-c4a2-4b96-b94b-69b32a14228c" />
 
 
 All my other personal projects are private for now, if you're interested in hearing about them then please contact me.
